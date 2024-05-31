@@ -9,13 +9,13 @@
 <table style="border-collapse: collapse; margin: 0 auto;">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=CogniSeeker&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="350"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=CogniSeeker&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="390"/>
     </td>
     <td style="border: none; padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CogniSeeker&theme=dark&hide_border=false" width="380"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CogniSeeker&theme=dark&hide_border=false" width="420"/>
     </td>
     <td style="border: none; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CogniSeeker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="320"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CogniSeeker&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="360"/>
     </td>
   </tr>
 </table>
