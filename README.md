@@ -29,6 +29,6 @@
 ## 📧 Contact
 
 - **Email**: olehboures@gmail.com
-- **Telegram**: @oleharh
+- **Telegram**: [@oleharh](https://t.me/oleharh)
 
 I’m open to propositions and collaborations, don’t hesitate to reach out!
