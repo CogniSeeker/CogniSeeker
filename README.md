@@ -25,6 +25,7 @@
 - Czech(B2)
 - French(B2)
 - Ukrainian(Native)
+- Russian(Native)
 
 ## 📧 Contact
 
