@@ -14,10 +14,10 @@
 
 
 ## 👨‍💻 Projects
-- **LAR**: A navigation system for a robot designed to follow a course marked by colored poles
+- **[LAR](https://github.com/CogniSeeker/LAR)**: A navigation system for a robot designed to follow a course marked by colored poles
 - **[Backie](https://github.com/CogniSeeker/Backie)**: A desktop program for smart file backups
-- **Fractals**: A multi-threaded fractal drawing program
-- **Dogway**: A mobile platform for a dog walking service (private project)
+- **[Fractals](https://github.com/CogniSeeker/Fractals)**: A multi-threaded fractal drawing program
+- **Dogway**: A mobile platform for a dog walking service (a private project)
 
 ## 🌎 Communication
 
